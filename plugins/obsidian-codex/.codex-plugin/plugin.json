@@ -1,0 +1,49 @@
+{
+  "name": "obsidian-codex",
+  "version": "0.1.0",
+  "description": "Operate an Obsidian vault from Codex through the Obsidian CLI, local vault files, and optional REST/MCP bridges.",
+  "author": {
+    "name": "Codex Obsidian Plugin Maintainers",
+    "email": "maintainers@example.com",
+    "url": "https://github.com/T4erg"
+  },
+  "homepage": "https://obsidian.md/cli",
+  "repository": "https://github.com/T4erg/obsidian-codex",
+  "license": "MIT",
+  "keywords": [
+    "obsidian",
+    "notes",
+    "knowledge-management",
+    "second-brain",
+    "codex"
+  ],
+  "skills": "./skills/",
+  "hooks": "./hooks.json",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Obsidian Codex",
+    "shortDescription": "Let Codex search, edit, organize, and maintain Obsidian vaults.",
+    "longDescription": "Obsidian Codex gives Codex a disciplined workflow for operating an Obsidian vault: note search, summarization, editing, cleanup, tags, backlinks, frontmatter, index pages, vault linting, and source ingestion. It is inspired by Claude Obsidian's compounding wiki model and uses the official Obsidian CLI when available, with local vault file operations and optional REST/MCP bridges for deeper automation.",
+    "developerName": "Codex Obsidian Plugin Maintainers",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write",
+      "Search",
+      "Interactive",
+      "Automation"
+    ],
+    "websiteURL": "https://obsidian.md/cli",
+    "privacyPolicyURL": "https://obsidian.md/privacy",
+    "termsOfServiceURL": "https://obsidian.md/terms",
+    "defaultPrompt": [
+      "Search my Obsidian vault for notes about this topic.",
+      "Clean up and tag this Obsidian note.",
+      "Summarize recent vault notes into an index."
+    ],
+    "brandColor": "#7C3AED",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/logo.svg",
+    "screenshots": []
+  }
+}

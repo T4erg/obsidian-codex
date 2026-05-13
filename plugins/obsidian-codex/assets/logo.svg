@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 96" role="img" aria-label="Obsidian Codex logo">
+  <rect width="320" height="96" rx="16" fill="#111827"/>
+  <path d="M54 14 80 40 66 82 30 74 18 40Z" fill="#7C3AED"/>
+  <path d="M54 14 66 82 46 51Z" fill="#A78BFA"/>
+  <path d="M98 38h28v7h-20v12h18v7h-18v18h-8Zm40 0h9l16 44h-9l-3-10h-17l-3 10h-9Zm-2 27h13l-6-18h-1Zm36-27h15c14 0 22 8 22 22s-8 22-22 22h-15Zm9 8v28h5c9 0 14-5 14-14s-5-14-14-14Zm39-8h28v7h-19v11h17v7h-17v10h20v7h-29Zm42 0h8l19 29V38h8v44h-8l-19-29v29h-8Z" fill="#F9FAFB"/>
+</svg>

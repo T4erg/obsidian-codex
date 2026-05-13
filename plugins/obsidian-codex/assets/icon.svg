@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Obsidian Codex icon">
+  <rect width="64" height="64" rx="14" fill="#1F2937"/>
+  <path d="M34 6 52 24 42 58 18 52 10 24Z" fill="#7C3AED"/>
+  <path d="M34 6 42 58 28 37Z" fill="#A78BFA"/>
+  <path d="M10 24 28 37 18 52Z" fill="#C4B5FD"/>
+  <path d="M34 6 28 37 10 24Z" fill="#6D28D9"/>
+  <path d="M28 37 42 58 18 52Z" fill="#8B5CF6"/>
+</svg>

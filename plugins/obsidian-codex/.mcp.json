@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "obsidian-vault-filesystem": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@bitbonsai/mcpvault@latest",
+        "${OBSIDIAN_VAULT}"
+      ]
+    }
+  }
+}
